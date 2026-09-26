@@ -2,7 +2,9 @@
 
 Columbus, NE · (734) 680-3501 · [ernesthausmann15@gmail.com](mailto:ernesthausmann15@gmail.com)
 
-Portfolio: [ernest-hausmann-portfolio-website.vercel.app](https://ernest-hausmann-portfolio-website.vercel.app) · LinkedIn Profile
+Portfolio: [ernest-hausmann-portfolio-website.vercel.app](https://ernest-hausmann-portfolio-website.vercel.app) · [LinkedIn Profile](https://www.linkedin.com/in/ernest-hausmann-a4755a387/)
+
+GitHub: [github.com/ernesthausmann15](https://github.com/ernesthausmann15)
 
 ## Professional Summary
 
