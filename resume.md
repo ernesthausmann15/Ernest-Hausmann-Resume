@@ -12,7 +12,7 @@ Dedicated Junior Software Engineer and frontend developer with a strong foundati
 
 ### FES Institute — Frontend Development Bootcamp & Virtual Internship
 
-Graduate (HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Node.js) · View Certificate & Portfolio Showcase
+Graduate (HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Node.js) · [View Certificate & Portfolio Showcase](https://ernest-hausmann-portfolio-website.vercel.app/certificates/fes-certificate.pdf)
 
 - Completed intensive frontend engineering coursework and practical virtual internship, building responsive, accessible, and high-performance user interfaces.
 
@@ -61,11 +61,51 @@ Founder & Executive Director (2023 – Present)
 
 - Directed non-profit infrastructure and community resource initiatives, managing stakeholder engagement and digital asset coordination.
 
-### University of Michigan & University of Nebraska — Football Programs
+## Athletic Leadership & Honors
 
-Team Captain & National Champion (2022 – 2025)
+### University of Michigan — Ann Arbor, MI
 
-- Selected Team Captain (2025) and National Champion (2023) for the University of Michigan; led team communication, accountability, and high-pressure execution while balancing rigorous academic and athletic schedules.
+Team Captain & National Champion (2023 – 2025)
+
+- Selected by teammates as Team Captain (2025), fostering team communication, accountability, and daily focus.
+- Contributed during the 15-0 postseason run and the 2023 NCAA Division I Football National Championship.
+- Earned 3rd Team All-Big Ten honors (2025) and Honorable Mention selections (2024, 2025).
+- Received the Roger Zatkoff Award (2024) as the Most Outstanding Linebacker after leading the team in total tackles (89).
+- Received the Blue Collar Award (2024) for work ethic, consistency, and dedication in practice and preparation.
+- Named a Jason Witten Collegiate Man of the Year Semifinalist (2025) for community impact and personal integrity.
+- Selected by coaching staff as a Big Ten Media Days Representative (2025).
+
+### University of Nebraska — Lincoln, NE
+
+True Freshman Starter (2022)
+
+- Started as a true freshman, earning a varsity letter and Blackshirt defensive recognition.
+
+## Community Service & Engagement
+
+### Samaritas — Michigan
+
+Adoption Ambassador (2025 – Present)
+
+- Support child welfare awareness initiatives through community outreach and advocacy for foster care networks.
+
+### Juvenile Detention Facilities — Detroit & Ann Arbor, MI
+
+Youth Mentor & Speaker
+
+- Participate in mentorship programs focused on personal development, goal-setting, and positive decision-making.
+
+### C.S. Mott Children's Hospital — Ann Arbor, MI
+
+Patient Engagement Volunteer
+
+- Visit and support pediatric patients and families during hospital stays.
+
+### Special Olympics & Youth Camps
+
+Community Event Volunteer
+
+- Assist with logistics and coordination for youth development sports camps.
 
 ## Core Competencies & Tech Stack
 
