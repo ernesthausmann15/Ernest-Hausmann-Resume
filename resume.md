@@ -1,116 +1,62 @@
-# Ernest Hausmann
+# Ernest Hausmann — AI Engineer & Software Developer
+**Columbus, Nebraska** | **(734) 680-3501** | **ernesthausmann15@gmail.com** | **[Portfolio](portfolio)** | **[GitHub](github)**[cite: 6]
 
-Columbus, NE · (734) 680-3501 · [ernesthausmann15@gmail.com](mailto:ernesthausmann15@gmail.com)
-
-Portfolio: [ernest-hausmann-portfolio-website.vercel.app](https://ernest-hausmann-portfolio-website.vercel.app) · [LinkedIn Profile](https://www.linkedin.com/in/ernest-hausmann-a4755a387/)
-
-GitHub: [github.com/ernesthausmann15](https://github.com/ernesthausmann15)
+---
 
 ## Professional Summary
+AI Engineer and Full-Stack Developer with hands-on experience building production-ready web applications, intelligent AI workflows, and robust relational data systems using Next.js, TypeScript, React, PostgreSQL, and Supabase[cite: 6]. Backed by rigorous technical training through the FES Institute and real-world IT infrastructure experience at Loup Power District supporting system reliability and security configurations, combining strong backend architecture with modern prompt engineering to deliver scalable, high-performance applications[cite: 6].
 
-Dedicated Junior Software Engineer and frontend developer with a strong foundation in collaborative engineering, operational execution, and user experience design. Blends rigorous technical training from FES Institute with hands-on IT infrastructure experience and D1 athletic leadership, bringing an exceptional work ethic and focus on building intuitive, high-performance web applications powered by modern AI workflows.
+---
 
 ## Education & Certifications
+* **Sept 2026 — Sept 2026** | **Frontend Development Bootcamp, FES Institute**[cite: 8]
+  * Graduate (HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Node.js)[cite: 8]
+  * Completed intensive frontend engineering coursework and practical virtual internship, building responsive, accessible, and high-performance user interfaces[cite: 8].
+* **May 2026 — May 2027** | **Certificate in Cybersecurity, Central Community College** (Columbus, NE)[cite: 6]
+  * Coursework in Python Programming, Linux Server Administration, and network security architectures[cite: 6].
+* **Jan 2023 — Jan 2026** | **Undergraduate Studies, University of Michigan** (Ann Arbor, MI)[cite: 8]
+* **Jan 2022 — Jan 2023** | **Undergraduate Coursework, University of Nebraska** (Lincoln, NE)[cite: 8]
 
-### FES Institute — Frontend Development Bootcamp & Virtual Internship
+---
 
-Graduate (HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Node.js) · [View Certificate & Portfolio Showcase](https://ernest-hausmann-portfolio-website.vercel.app/certificates/fes-certificate.pdf)
+## Projects
+* **Sept 2026 — Present** | **Flash Sale & AI Management**[cite: 8]
+  * Engineered and deployed a full-stack e-commerce and inventory system using Next.js and TypeScript, establishing robust asynchronous data fetching cycles and zero-failure UI state management across devices[cite: 8].
+  * Integrated a secure relational database layer using Supabase and PostgreSQL to handle real-time product inventory updates, dynamic form submissions, and transactional data integrity[cite: 8].
+  * Architected automated backend infrastructure on Render connected to a continuous deployment pipeline on Vercel for seamless production delivery[cite: 8].
+  * Incorporated custom AI-driven features and advanced prompt engineering to dynamically automate product workflows and streamline intelligent catalog categorization[cite: 8].
 
-- Completed intensive frontend engineering coursework and practical virtual internship, building responsive, accessible, and high-performance user interfaces.
+* **Sept 2026 — Sept 2026** | **Skinstric**[cite: 8]
+  * Developed the frontend and user experience for an AI-powered skincare onboarding platform, guiding users through an interactive diagnostic flow from initial setup to real-time analysis[cite: 8].
+  * Engineered a multi-step camera and photo-capture pipeline that transmits user images to an integrated AI processing engine, structuring incoming responses into prioritized, readable ranking lists (age, sex, and race)[cite: 8].
+  * Built a responsive, accessible interface using Next.js, TypeScript, React, and Tailwind CSS to ensure seamless, mobile-optimized performance across all devices[cite: 8].
 
-### Central Community College — Columbus, NE
-
-Candidate for Certificate in Cybersecurity (Expected May 2027)
-
-- Coursework in Python Programming, Linux Server Administration, and network security architectures.
-
-### University of Michigan — Ann Arbor, MI
-
-Undergraduate Studies (Attended until January 2026)
-
-### University of Nebraska — Lincoln, MI
-
-Undergraduate Coursework (Attended until January 2023)
-
-## Featured Projects
-
-Production-ready web applications built with Next.js, React, and TypeScript, focused on responsive interfaces, interactive experiences, and AI integration. Project details, demos, and the certificate showcase are at [ernest-hausmann-portfolio-website.vercel.app](https://ernest-hausmann-portfolio-website.vercel.app).
-
-- Summarist — Next.js, TypeScript, Redux, Firebase, Stripe, Tailwind CSS
-- Ultraverse — Next.js, TypeScript, React, Tailwind CSS
-- Movie Grab — React, JavaScript, React Router
+---
 
 ## Professional Work Experience
+* **Jun 2026 — Present** | **IT Systems & Infrastructure Intern, Loup Power District** (Columbus, NE)[cite: 9]
+  * Supported workstation provisioning and internal operational interface improvements for technical staff[cite: 9].
+  * Optimized internal operational interfaces and workstation provisioning workflows to improve usability and system reliability for technical staff[cite: 9].
+  * Collaborated on security gateway configuration (SEL-3620/3622) and systems architecture documentation to support clearer technical handoffs and stronger endpoint performance[cite: 9].
 
-### Loup Power District — Columbus, NE
+* **Mar 2020 — Jun 2026** | **Operations Specialist, Hy-Vee Foods** (Columbus, NE)[cite: 9]
+  * Improved inventory management and digital workflow organization in a fast-paced retail environment[cite: 9].
+  * Streamlined inventory management processes to improve operational efficiency[cite: 9].
+  * Organized digital workflows to support consistent customer-facing service standards[cite: 9].
+  * Contributed to day-to-day operations by keeping records and processes organized for faster handoffs[cite: 9].
 
-IT Systems & Infrastructure Intern (June 2026 – Dec 2026)
-
-- Optimized internal operational interfaces and workstation provisioning workflows to improve user experience and system reliability for technical staff.
-- Collaborated on security gateway configuration (SEL-3620/3622) and systems architecture documentation, ensuring intuitive technical handoffs and robust endpoint performance.
-
-### Hy-Vee Foods — Columbus, NE
-
-Operations Specialist (March 2020 – June 2026)
-
-- Streamlined inventory management and digital workflow organization to enhance operational efficiency and customer-facing service standards.
-
-## Leadership & Community Impact
-
-### Light Beneath the Well Foundation
-
-Founder & Executive Director (2023 – Present)
-
-- Directed non-profit infrastructure and community resource initiatives, managing stakeholder engagement and digital asset coordination.
-
-## Athletic Leadership & Honors
-
-### University of Michigan — Ann Arbor, MI
-
-Team Captain & National Champion (2023 – 2025)
-
-- Selected by teammates as Team Captain (2025), fostering team communication, accountability, and daily focus.
-- Contributed during the 15-0 postseason run and the 2023 NCAA Division I Football National Championship.
-- Earned 3rd Team All-Big Ten honors (2025) and Honorable Mention selections (2024, 2025).
-- Received the Roger Zatkoff Award (2024) as the Most Outstanding Linebacker after leading the team in total tackles (89).
-- Received the Blue Collar Award (2024) for work ethic, consistency, and dedication in practice and preparation.
-- Named a Jason Witten Collegiate Man of the Year Semifinalist (2025) for community impact and personal integrity.
-- Selected by coaching staff as a Big Ten Media Days Representative (2025).
-
-### University of Nebraska — Lincoln, NE
-
-True Freshman Starter (2022)
-
-- Started as a true freshman, earning a varsity letter and Blackshirt defensive recognition.
-
-## Community Service & Engagement
-
-### Samaritas — Michigan
-
-Adoption Ambassador (2025 – Present)
-
-- Support child welfare awareness initiatives through community outreach and advocacy for foster care networks.
-
-### Juvenile Detention Facilities — Detroit & Ann Arbor, MI
-
-Youth Mentor & Speaker
-
-- Participate in mentorship programs focused on personal development, goal-setting, and positive decision-making.
-
-### C.S. Mott Children's Hospital — Ann Arbor, MI
-
-Patient Engagement Volunteer
-
-- Visit and support pediatric patients and families during hospital stays.
-
-### Special Olympics & Youth Camps
-
-Community Event Volunteer
-
-- Assist with logistics and coordination for youth development sports camps.
+---
 
 ## Core Competencies & Tech Stack
+* **Languages & Core:** JavaScript, TypeScript, Python[cite: 9]
+* **Frontend & UI:** HTML, CSS, React, Next.js, Tailwind CSS, Redux, Responsive Design, Accessibility[cite: 9]
+* **Backend, Cloud & Data:** PostgreSQL, Supabase, Render, Vercel, Network Configuration, Linux Server Administration[cite: 9]
+* **AI & Workflow:** Prompt Engineering, Git, GitHub, VS Code[cite: 9]
+* **Languages:** English (Highly proficient)[cite: 9]
 
-**Frontend & Web:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux, GSAP, Three.js
+---
 
-**Tools & Systems:** Git, GitHub, Vercel, VS Code, Cursor AI, Python, Linux Administration, Network Configuration
+## Athletic Leadership & Honors
+* **Jan 2023 — Jan 2025** | **Team Captain & National Champion** (Ann Arbor, MI)[cite: 9]
+  * Selected by teammates as Team Captain, reinforcing communication, accountability, and daily focus[cite: 9].
+  * Contributed during a 15-0 postseason run and a NCAA Division I Football National Championship season[cite: 9].
